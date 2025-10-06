@@ -1,6 +1,6 @@
 # Assignment 3 Rubric - Movie Chatbot
 **Total Points: 20**
-**Name: [Insert name here]**
+**Name: Miguel **
 ---
 ## Grading Notes
 You'll be graded on your **function implementations**, **search functionality**, and **creative additions**. I'm looking for:

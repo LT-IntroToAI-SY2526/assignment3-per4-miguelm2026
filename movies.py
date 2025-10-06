@@ -14,15 +14,15 @@ from typing import List, Tuple
 
 movie_db: List[Tuple[str, str, int, List[str]]] = [
     (
-        "amarcord",  # title
-        "federico fellini",  # director
-        1974,  # year
+        "amarcord",
+        "federico fellini",
+        1974,
         [
             "magali noel",
             "bruno zanin",
             "pupella maggio",
             "armando drancia",
-        ],  # actors/actresses
+        ],
     ),
     (
         "the big easy",
@@ -233,6 +233,53 @@ movie_db: List[Tuple[str, str, int, List[str]]] = [
             "dan hedaya",
             "m emmet walsh",
             "samm-art williams",
+        ],
+    ),
+    (
+        "platoon",
+        "oliver stone",
+        1986,
+        [
+            "charlie sheen",
+            "tom berenger",
+            "willem dafoe",
+            "kevin dillon",
+            "john c. mcginley",
+        ],
+    ),
+    (
+        "stand by me",
+        "rob reiner",
+        1986,
+        [
+            "wil wheaton",
+            "river phoenix",
+            "corey feldman",
+            "jerry o'connell",
+            "richard dreyfuss",
+        ],
+    ),
+    (
+        "top gun",
+        "tony scott",
+        1986,
+        [
+            "tom cruise",
+            "kelly mcgillis",
+            "val kilmer",
+            "anthony edwards",
+            "tom skerritt",
+        ],
+    ),
+    (
+        "the fly",
+        "david cronenberg",
+        1986,
+        [
+            "jeff goldblum",
+            "geena davis",
+            "john getz",
+            "joyce grenfell",
         ],
     ),
     (
